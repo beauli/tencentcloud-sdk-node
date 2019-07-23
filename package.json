@@ -1,0 +1,26 @@
+{
+  "name": "tencentcloud-sdk-node",
+  "version": "0.0.1",
+  "description": "tencentcloud nodejs sdk",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beauli/tencentcloud-sdk-node.git"
+  },
+  "author": "Beauli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beauli/tencentcloud-sdk-node/issues"
+  },
+  "homepage": "https://github.com/beauli/tencentcloud-sdk-node#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  },
+  "dependencies": {
+    "debug": "^4.1.1",
+    "node-fetch": "^2.6.0"
+  }
+}
